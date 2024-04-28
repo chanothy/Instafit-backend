@@ -117,7 +117,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 * Timothy Chan - timchan@iu.edu
-* Your Name - email@example.com
+* Sierra Napieralski - email@example.com
 * Your Name - email@example.com
 * Your Name - email@example.com
 
